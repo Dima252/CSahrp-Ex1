@@ -32,9 +32,9 @@ namespace Ex01_01
                         Console.WriteLine("Invalid input, Please enter a valid number:");
                     }
                 }
-                binaryToDecimalNumbers[inputCount] = Convert.ToInt32(numberInput,2);
+                binaryToDecimalNumbers[inputCount] = binaryToDecimalConverter(numberInput);
 
-                binaryToIntNumbers[inputCount] = arrayBreakdown(numberInput);  
+                binaryToIntNumbers[inputCount] = arrayBreakdown(numberInput);
 
             }
 
@@ -47,6 +47,19 @@ namespace Ex01_01
             numberOfExchanges(binaryToIntNumbers);
 
             printNumberOfOnes(binaryToIntNumbers);
+        }
+
+        static int binaryToDecimalConverter(string binaryNumber)
+        {
+            int decimalNumber = 0;
+            for (int i = 0; i < binaryNumber.Length; i++)
+            {
+                if (binaryNumber[binaryNumber.Length - 1 - i] == '1')
+                {
+                    decimalNumber += (int)Math.Pow(2, i);
+                }
+            }
+            return decimalNumber;
         }
 
         static bool isValidInput(string numberInput)
