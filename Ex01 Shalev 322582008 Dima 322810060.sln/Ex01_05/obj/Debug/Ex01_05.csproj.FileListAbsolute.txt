@@ -1,0 +1,7 @@
+C:\Mac\Home\Documents\GitHub\CSahrp-Ex1\Ex01 Shalev 322582008 Dima 322810060.sln\Ex01_05\bin\Debug\Ex01_05.exe.config
+C:\Mac\Home\Documents\GitHub\CSahrp-Ex1\Ex01 Shalev 322582008 Dima 322810060.sln\Ex01_05\bin\Debug\Ex01_05.exe
+C:\Mac\Home\Documents\GitHub\CSahrp-Ex1\Ex01 Shalev 322582008 Dima 322810060.sln\Ex01_05\bin\Debug\Ex01_05.pdb
+C:\Mac\Home\Documents\GitHub\CSahrp-Ex1\Ex01 Shalev 322582008 Dima 322810060.sln\Ex01_05\obj\Debug\Ex01_05.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\GitHub\CSahrp-Ex1\Ex01 Shalev 322582008 Dima 322810060.sln\Ex01_05\obj\Debug\Ex01_05.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\GitHub\CSahrp-Ex1\Ex01 Shalev 322582008 Dima 322810060.sln\Ex01_05\obj\Debug\Ex01_05.exe
+C:\Mac\Home\Documents\GitHub\CSahrp-Ex1\Ex01 Shalev 322582008 Dima 322810060.sln\Ex01_05\obj\Debug\Ex01_05.pdb
